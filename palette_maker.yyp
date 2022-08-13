@@ -2,7 +2,6 @@
   "resources": [
     {"id":{"name":"palette_spr","path":"sprites/palette_spr/palette_spr.yy",},"order":0,},
     {"id":{"name":"colour_shd","path":"shaders/colour_shd/colour_shd.yy",},"order":0,},
-    {"id":{"name":"todo","path":"objects/todo/todo.yy",},"order":1,},
     {"id":{"name":"pm_draw","path":"objects/pm_draw/pm_draw.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
